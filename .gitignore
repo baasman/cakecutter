@@ -1,0 +1,7 @@
+/target
+.vscode
+.hello_world
+scripts
+test
+test-cake/
+cakecutter.json
