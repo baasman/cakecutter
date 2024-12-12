@@ -99,7 +99,5 @@ pub fn cakecutter(
         }
     }
 
-    dbg!(config);
-    dbg!(replay);
     Ok(())
 }
